@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#2e7d32; font-family:Arial, sans-serif;">
-    🌱 Eco Mentor
+    🌱 Green Mentor
 </h1>
 <p align="center" style="font-size:18px; color:#555;">
     <em>🌱 Learn Green. Play Green. Live Green.</em><br>
