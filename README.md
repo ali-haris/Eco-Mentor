@@ -26,6 +26,13 @@
 
 <hr>
 
+<h2 style="color:#388e3c;">🏆 Selected Among Top 30 Projects, AsterHacks 2025 Hackathon</h2>
+<ol style="font-size:16px; line-height:1.6;">
+    <li>🔗 <a href="https://devpost.com/software/green-mentor-chatbot" style="color:#1e88e5;" target="_blank">View on DevPost</a></li>
+</ol>
+
+<hr>
+
 <h2 style="color:#388e3c;">🛠 Tech Stack</h2>
 <ul style="font-size:16px; line-height:1.6;">
     <li>⚙️ <strong>Backend:</strong> FastAPI, Python</li>
@@ -53,6 +60,9 @@
     <li>💬 <strong>Chat:</strong> Green bubbles for mentor, light blue for user.</li>
     <li>🏅 <strong>Badges:</strong> Circular with shine animation.</li>
 </ul>
+
+<h2 style="color:#388e3c;">🎨 UI & Visual Design</h2>
+
 
 <hr>
 
