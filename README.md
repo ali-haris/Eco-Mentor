@@ -27,9 +27,9 @@
 <hr>
 
 <h2 style="color:#388e3c;">🏆 Selected Among Top 30 Projects, AsterHacks 2025 Hackathon</h2>
-<ol style="font-size:16px; line-height:1.6;">
+<ul style="font-size:16px; line-height:1.6;">
     <li>🔗 <a href="https://devpost.com/software/green-mentor-chatbot" style="color:#1e88e5;" target="_blank">View on DevPost</a></li>
-</ol>
+</ul>
 
 <hr>
 
