@@ -19,10 +19,10 @@
 <hr>
 
 <h2 style="color:#388e3c;">🚀 Advantages for Hackathon</h2>
-<ol style="font-size:16px; line-height:1.6;">
+<ul style="font-size:16px; line-height:1.6;">
     <li>💡 Minimal UI with maximum functionality.</li>
     <li>🤖 GPT-5 powered, context-aware, and highly engaging.</li>
-</ol>
+</ul>
 
 <hr>
 
