@@ -2,4 +2,16 @@ backend\.env
 frontend\node_modules
 frontend\.env
 
+# Environment files
+backend/.env
+frontend/.env
+
+# Node modules
+frontend/node_modules/
+
+# General
+node_modules/
+.env
+
+
 
